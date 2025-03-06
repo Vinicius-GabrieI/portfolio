@@ -69,8 +69,8 @@ body{
 }
 
 .foto{
-    margin: 25px;
-    border-radius: 50px;
-    max-width: 85%;
+    margin: 2%;
+    border-radius: 20%;
+    max-width: 100%;
     height: auto;
 }
