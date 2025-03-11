@@ -110,7 +110,7 @@ body{
 .apresentacao__imagem{
     margin: 4%;
     border-radius: 20%;
-    max-width: 45%;
+    width: 45%;
     height: auto;
 }
 
@@ -143,6 +143,6 @@ body{
     }
 
     .apresentacao__imagem{
-        width: 20rem;
+        width: 50%;
     }
 }
